@@ -1,2 +1,0 @@
-# sodanine
-webpage sodanine
