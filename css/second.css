@@ -1,8 +1,8 @@
 .sodanine {
     padding-top: 25%;
     padding-bottom: 4%;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .text1 {
@@ -13,7 +13,7 @@
 }
 
 h2 {
-    padding-bottom: 5%;
+    padding-bottom: 2%;
     font-family: monospace;
     letter-spacing: 3px;
     font-size: 30px;
@@ -30,9 +30,10 @@ h2 {
 
 .links {
     text-align: center;
-    padding-bottom: 10%;
+    padding-bottom: 8%;
     margin-left: 25%;
     margin-right: 25%;
+    margin-top: 0%;
 }
 
 .instagram {
