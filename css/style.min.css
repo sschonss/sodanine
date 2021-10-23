@@ -30,9 +30,9 @@ h6,
 }
 
 a {
-  color: white;
+  color: #ff0095;
   font-weight: bold;
-  font-family: monospace;
+  font-family: sans-serif;
   text-align: center;
 }
 
@@ -44,7 +44,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #333399;
+  color: #ffffff;
 }
 
 img {
