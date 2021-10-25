@@ -38,10 +38,15 @@ h2 {
 
 .instagram {
     text-align: center;
-
-    margin-left: 30%;
-    margin-right: 30%;
+    ;
     margin-bottom: 0%;
     letter-spacing: 1px;
 
+}
+
+@media screen and (min-width: 520px) {
+    .instagram {
+        padding-left: 30%;
+        padding-right: 30%;
+    }
 }
