@@ -342,8 +342,8 @@ section {
   height: 500px;
   border: 15px solid rgba(255, 255, 255, 0.08);
   position: absolute;
-  left: -5%;
-  bottom: -10%;
+  left: 5%;
+  bottom: 10%;
   display: block;
   animation: floating-slow ease-in-out 12s infinite;
 }
