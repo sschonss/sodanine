@@ -48,9 +48,3 @@ h2 {
 
 }
 
-@media screen and (min-width: 520px) {
-    .instagram {
-        padding-left: 30%;
-        padding-right: 30%;
-    }
-}

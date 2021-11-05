@@ -136,7 +136,7 @@ section {
 
 .jumbotron:before {
   position: absolute;
-  display: block;
+  display: inline;
   content: "";
   opacity: 0.8;
   top: 0;
@@ -173,7 +173,7 @@ section {
 
 .overlay:before {
   position: relative;
-  display: block;
+  display: inline;
   content: "";
   opacity: 0.9;
   top: 0;
